@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rajan Raj</h1>
-<h3 align="center">Aspiring software developer from India</h3>
+<h3 align="center">Aspiring software developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajanraj2&label=Profile%20views&color=0e75b6&style=flat" alt="rajanraj2" /> </p>
 
