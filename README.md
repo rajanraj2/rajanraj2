@@ -3,13 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajanraj2&label=Profile%20views&color=0e75b6&style=flat" alt="rajanraj2" /> </p>
 
-- 🌱 I’m currently learning **front-end development**
+- 🌱 I’m a **full stack development**
 
 - 👯 I’m looking to collaborate on **python projects**
 
-- 🤝 I’m looking for help with **full stack development**
-
-- 💬 Ask me about **front-end, AI & ML**
+- 💬 Ask me about **web-dev, AI & ML**
 
 - 📫 How to reach me **rajanraj253545@gmail.com**
 
