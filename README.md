@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajanraj2&label=Profile%20views&color=0e75b6&style=flat" alt="rajanraj2" /> </p>
 
-- 🌱 I’m a **full stack development**
+- 🌱 I’m a **full stack developer**
 
 - 👯 I’m looking to collaborate on **python projects**
 
