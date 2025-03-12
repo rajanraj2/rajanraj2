@@ -27,7 +27,7 @@
 
 ## 🏆 Competitive Programming Profiles  
 
-<table>
+<table border="0">
   <tr>
     <td align="center">
       <a href="https://leetcode.com/YOUR_USERNAME">
