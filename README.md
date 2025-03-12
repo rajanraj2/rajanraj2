@@ -119,48 +119,22 @@
 
 ## 🚀 Featured Projects
 
- <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
-        <!-- Fashion Fusion Card -->
-        <a href="https://github.com/rajanraj2/FashionFusion.git">
-        <div style="width: 450px; background: #bbadb0; border-radius: 10px; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1); overflow: hidden; text-align: center;">
-            <img src="fashionfusion.png" alt="Fashion Fusion" style="width: 100%; height: auto;">
-            <div style="padding: 15px;">
-                <h3 style="margin: 10px 0; text-decoration: none; color: #333;">Fashion Fusion</h3>
-                <p style="color: #2d2728;">AI-powered fashion recommendation system that detects clothing types and suggests stylish outfits.</p>
-            </div>
-        </div>
-        </a>
-        <!-- Fireshark Card -->
-        <a href="https://github.com/rajanraj2/Fireshark.git">
-        <div style="width: 450px; background: #bbadb0; border-radius: 10px; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1); overflow: hidden; text-align: center;">
-            <img src="fireshark.png" alt="Fireshark" style="width: 100%; height: auto;">
-            <div style="padding: 15px;">
-                <h3 style="margin: 10px 0; text-decoration: none; color: #333;">Fireshark</h3>
-                <p style="color: #2d2728;">A security analysis tool to detect network vulnerabilities and unusual traffic patterns.</p>
-            </div>
-        </div>
-        </a>
-        <!-- Road Sense Card -->
-        <a href="https://github.com/rajanraj2/Road_Sense.git">
-        <div style="width: 450px; background: #bbadb0; border-radius: 10px; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1); overflow: hidden; text-align: center;">
-            <img src="roadsense.png" alt="Road Sense" style="width: 100%; height: auto;">
-            <div style="padding: 15px;">
-                <h3 style="margin: 10px 0; text-decoration: none; color: #333;">Road Sense</h3>
-                <p style="color: #2d2728;">Java-based road safety awareness game with quizzes and driving lessons.</p>
-            </div>
-        </div>
-        </a>
-        <!-- Paint Palace Card -->
-        <a href="https://github.com/rajanraj2/Paint_App.git">
-        <div style="width: 450px; background: #bbadb0; border-radius: 10px; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1); overflow: hidden; text-align: center;">
-            <img src="paintpalace.png" alt="Paint Palace" style="width: 100%; height: auto;">
-            <div style="padding: 15px;">
-                <h3 style="margin: 10px 0; text-decoration: none; color: #333;">Paint Palace</h3>
-                <p style="color: #2d2728;">An interactive drawing and painting app built using Python's Tkinter.</p>
-            </div>
-        </div>
-        </a>
-</div>
+### 🔗 [Fashion Fusion](https://github.com/rajanraj2/FashionFusion.git)  
+AI-powered fashion recommendation system that detects the type of cloth from image using AI and suggests outfits based on trends and personal style.  
+<img src="fashionfusion.png" alt="Fashion Fusion Image" width="500"/>
+
+### 🔗 [Fireshark](https://github.com/rajanraj2/Fireshark.git)    
+A network security analysis tool designed to detect vulnerabilities and unusual patterns in traffic.  
+<img src="fireshark.png" alt="Fireshark Image" width="500"/>
+
+### 🔗 [Road Sense](https://github.com/rajanraj2/Road_Sense.git)    
+Java-based road safety awareness game with a QuizGame and DrivingSchool module. 
+<!-- ![Road Sense](roadsense.png)   -->
+<img src="roadsense.png" alt="Road Sense Image" width="500"/>
+
+### 🔗 [Paint Palace](https://github.com/rajanraj2/Paint_App.git) 
+A fun and interactive drawing/painting app built using Tkinter in Python.  
+<img src="paintpalace.png" alt="Paint Palace Image" width="500"/>
 
 
 ###
