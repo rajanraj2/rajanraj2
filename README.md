@@ -11,11 +11,11 @@
     <div style="display: flex; justify-content: space-between; align-items: center;">
         <div>
             <ul>
-                <li>💡 Passionate about solving complex problems through competitive programming.</li>
-                <li>🌱 I’m a <strong>Full Stack Developer</strong> (MERN) & AI/ML enthusiast.</li>
-                <li>🤝 Looking to collaborate on <strong>WebRTC, WebSocket, and AI/ML projects</strong>.</li>
+                <li>🌱 CS Engineer - I do backend, AI/ML & stuff.</li>
+                <li>🧩 I work on frontend just as much as a fullstack dev does.</li> 
+                <li>💡 Solving complex problems through competitive programming.</li>
                 <li>💬 Love to build innovative solutions and share knowledge with the community.</li>
-                <li>⚡ Fun Fact: <strong>Even an empty array holds a lot of feelings (undefined ones 😆).</strong></li>
+                <li>⚡ Fun Fact: <strong>Even an empty array holds a lot of feelings (undefined ones).</strong></li>
                 <li>📫 Reach me at <strong>rajanraj253545@gmail.com</strong>.</li>
             </ul>
         </div>
