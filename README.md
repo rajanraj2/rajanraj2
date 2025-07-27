@@ -144,16 +144,16 @@ A fun and interactive drawing/painting app built using Tkinter in Python.
   <a href="https://www.linkedin.com/in/devrajanraj/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35" style="border-radius: 15px;" />
   </a>
-  <a href="https://x.com/rajanraj_2" target="_blank">
+<!--   <a href="https://x.com/rajanraj_2" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" height="35" style="border-radius: 15px;" />
-  </a>
+  </a> -->
   <a href="https://www.youtube.com/@rajanrajdev" target="_blank">
     <img src="https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height="35" style="border-radius: 15px;" />
   </a>
   <a href="https://linktr.ee/rajan_raj_" target="_blank">
     <img src="https://img.shields.io/badge/Linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white" height="35" style="border-radius: 15px;" />
   </a>
-  <a href="https://medium.com/@rajanraj253545" target="_blank">
+  <a href="https://medium.com/@pinkeyes" target="_blank">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" height="35" style="border-radius: 15px;" />
   </a>
 </div>
