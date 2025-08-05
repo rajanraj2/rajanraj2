@@ -1,13 +1,8 @@
 <h1 align="center">Hi 👋, I'm Rajan Raj</h1>
 <h3 align="center"> The harder the problem, the more interesting the solution. </h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rajanraj2&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/rajanraj2?label=Followers&style=social" alt="GitHub Followers" />
-</p>
-
 <div>
-    <h2>🚀 About Me</h2>
+    <h2>About Me:</h2>
     <div style="display: flex; justify-content: space-between; align-items: center;">
         <div>
             <ul>
